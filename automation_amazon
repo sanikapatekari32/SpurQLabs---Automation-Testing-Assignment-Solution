@@ -1,0 +1,11 @@
+automation_amazon/
+├── tests/
+│   ├── test_search_cart.py
+├── pages/
+│   ├── base_page.py
+│   ├── search_page.py
+│   └── cart_page.py
+├── reports/
+├── requirements.txt
+├── conftest.py
+└── README.md
